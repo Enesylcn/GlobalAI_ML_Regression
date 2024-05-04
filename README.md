@@ -27,10 +27,6 @@ Bu proje, Python kullanarak bir regresyon modeli oluşturma sürecini içermekte
 4. Veri setini `/ndtv_data_final.csv` dosyasına yerleştirin.
 5. `regression_project.py` dosyasını çalıştırın.
 
-## Katkılar
+## Kaynaklar
+Regresyon modelleri oluşturma ve değerlendirme işlemlerinde "https://github.com/gokerguner/notebooks/blob/main/ml03/ml03.ipynb" kaynağından büyük anlamda faydalanıldı. 
 
-- Pull istekleri beklenmektedir. Büyük değişiklikler için, lütfen önce tartışmak için bir konu açın.
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakınız.
