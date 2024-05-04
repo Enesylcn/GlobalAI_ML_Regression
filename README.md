@@ -23,8 +23,9 @@ Bu proje, Python kullanarak bir regresyon modeli oluşturma sürecini içermekte
 
 1. Proje dosyalarını bilgisayarınıza kopyalayın.
 2. Gerekli kütüphaneleri yükleyin (`pip install -r requirements.txt`).
-3. Veri setini `/ndtv_data_final.csv` dosyasına yerleştirin.
-4. `regression_project.py` dosyasını çalıştırın.
+3. Kaggle veri seti linki: https://www.kaggle.com/datasets/pratikgarai/mobile-phone-specifications-and-prices
+4. Veri setini `/ndtv_data_final.csv` dosyasına yerleştirin.
+5. `regression_project.py` dosyasını çalıştırın.
 
 ## Katkılar
 
