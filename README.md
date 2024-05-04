@@ -1,5 +1,4 @@
 # GlobalAI_ML_Regression
-# Regresyon Modeli Projesi
 
 Bu proje, Python kullanarak bir regresyon modeli oluşturma sürecini içermektedir. Proje, bir veri setini yüklemeyi, veriyi temizlemeyi, regresyon modelleri oluşturmayı ve değerlendirmeyi içerir.
 
